@@ -1,0 +1,15 @@
+header, main, footer{
+      padding-left: 400px;
+    }
+
+    @media only screen and (max-width:  992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+    }
+nav {padding-left: 250px !important; background-color: red !important;}
+li  a  i {color: red !important;}
+li  a  p {color: red !important;}
+li  a {color: red !important; font-size: 20px !important; margin-top: 15px; margin-bottom: 15px;}
+.login-box-t{background:url('assetsimglogo.jpg') no-repeat center center;padding:20px;margin-top:100px;margin-bottom:100px;opacity:0.5;box-shadow:4px 4px 6px #696969;}
+.shadow{box-shadow: 8px 8px 8px #696969 !important; }
